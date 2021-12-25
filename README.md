@@ -9,3 +9,5 @@
 ![ddb-no-vpc-endpoint-1024x561](https://user-images.githubusercontent.com/29729545/146681296-eb3a3d74-61e0-4327-b0a0-33a830a5663d.png)
 ![2019-08-13_10-41-04](https://user-images.githubusercontent.com/29729545/147268701-1e638881-bee6-4e67-a529-0708c689e879.png)
 ![vpn-basic-diagram](https://user-images.githubusercontent.com/29729545/147389403-c4a2301b-c0b5-4662-bb23-6c6b707cc0b1.png)
+
+![aws-dx-diagram](https://user-images.githubusercontent.com/29729545/147390545-1c1f9982-31c6-4ef4-a80b-51f19d8ff47e.png)
