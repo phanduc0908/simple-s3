@@ -15,3 +15,4 @@
 <img width="337" alt="option1" src="https://user-images.githubusercontent.com/29729545/147399102-cb227613-1e19-448a-a263-e42a09de6015.png">
 ![saas-v2-08](https://user-images.githubusercontent.com/29729545/147399276-62b44e17-3793-433d-83b3-79a89b98b066.png)
 ![image-6-1024x307](https://user-images.githubusercontent.com/29729545/147404623-e06ade34-5425-4562-aece-83f160a7dce0.png)
+![TransitGateway2](https://user-images.githubusercontent.com/29729545/147404793-f4f042f7-8e2d-4fdb-96ce-3c3685ee8ea9.png)
