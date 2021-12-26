@@ -14,3 +14,4 @@
 ![dx-gateway](https://user-images.githubusercontent.com/29729545/147390769-04b883bc-1a65-4835-ba02-6ab598fb3dae.png)
 <img width="337" alt="option1" src="https://user-images.githubusercontent.com/29729545/147399102-cb227613-1e19-448a-a263-e42a09de6015.png">
 ![saas-v2-08](https://user-images.githubusercontent.com/29729545/147399276-62b44e17-3793-433d-83b3-79a89b98b066.png)
+![image-6-1024x307](https://user-images.githubusercontent.com/29729545/147404623-e06ade34-5425-4562-aece-83f160a7dce0.png)
