@@ -12,3 +12,4 @@
 
 ![aws-dx-diagram](https://user-images.githubusercontent.com/29729545/147390545-1c1f9982-31c6-4ef4-a80b-51f19d8ff47e.png)
 ![dx-gateway](https://user-images.githubusercontent.com/29729545/147390769-04b883bc-1a65-4835-ba02-6ab598fb3dae.png)
+<img width="337" alt="option1" src="https://user-images.githubusercontent.com/29729545/147399102-cb227613-1e19-448a-a263-e42a09de6015.png">
