@@ -21,3 +21,4 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/29729545/147951666-48c6c7af-c3b0-42fd-b434-ed21edcb1f9e.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/29729545/147952597-e8809e11-cf3a-4dab-af64-8a15b80a4849.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/29729545/147953387-1df6f1ad-3e43-4590-9bc1-2555815e23ab.png)
+![S3-Bucket-Policies-1](https://user-images.githubusercontent.com/29729545/147956862-919f469d-1203-4478-a698-ae6bd5790ebb.png)
