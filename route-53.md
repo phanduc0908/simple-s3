@@ -4,3 +4,4 @@
 ![route-53-ưeighted](https://user-images.githubusercontent.com/29729545/150379982-45fdbc73-66ec-43ce-8158-69d05d413ffd.png)
 <img width="373" alt="route-53-latency" src="https://user-images.githubusercontent.com/29729545/150382989-3323e876-fc6a-457d-9c0d-e96ac3f206cf.png">
 ![failover](https://user-images.githubusercontent.com/29729545/150668689-58a59c45-5789-4d82-81c0-fac0166b10e6.png)
+![Screenshot_7](https://user-images.githubusercontent.com/29729545/150670334-0d757e9f-acac-4018-8238-97888873c8f8.png)
