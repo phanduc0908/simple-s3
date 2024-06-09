@@ -7,3 +7,4 @@
 ![image](https://user-images.githubusercontent.com/29729545/172041829-ff34741c-82fc-4ffd-88b6-3f98b2ef4787.png)
 ![image](https://user-images.githubusercontent.com/29729545/172041975-4329a3f0-b18a-424c-bc56-3f00a1d00791.png)
 ![image](https://user-images.githubusercontent.com/29729545/172041992-822ef411-f834-4987-8e93-fc7a540f67bd.png)
+![image](https://github.com/phanduc0908/simple-s3/assets/29729545/a662c317-fa63-4a12-8a35-0a3b1550a747)
